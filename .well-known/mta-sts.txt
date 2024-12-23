@@ -1,4 +1,4 @@
 version: STSv1
-mode: testing
+mode: Enforce
 mx: scotch-sa-edu-au.e-v1.mx.microsoft
 max_age: 604800
